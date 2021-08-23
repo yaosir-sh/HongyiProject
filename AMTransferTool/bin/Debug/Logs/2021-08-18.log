@@ -1,0 +1,12 @@
+
+时间：2021-08-18 15:08:16  等级：INFO  
+类名：AMTransferTool.TarnsferTool - 32 
+调试：D:\腾讯游戏\WeChat\file\WeChat Files\qqq040695\Files\WeChat Files\wxid_e7hwp6ek9n8121\FileStorage\File\2020-09\管理体系文件清单 -部门名称确认 2020091516.xls 
+
+时间：2021-08-18 15:08:16  等级：ERROR 
+类名：Err - 33 
+调试：类名:TarnsferTool 方法名:btnReader_Click 信息:D:\腾讯游戏\WeChat\file\WeChat Files\qqq040695\Files\WeChat Files\wxid_e7hwp6ek9n8121\FileStorage\File\2020-09\管理体系文件清单 -部门名称确认 2020091516.xls 
+
+
+public static string connectionString = "Database=test;Data Source=test;Port=3306;UserId=root;Password=root;Charset=utf8;TreatTinyAsBoolean=false;Allow User Variables=True";
+public static string connectionString = "Database=test;Data Source=test;Port=3306;UserId=root;Password=root;Charset=utf8;TreatTinyAsBoolean=false;Allow User Variables=True";
